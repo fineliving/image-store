@@ -78,7 +78,7 @@ canvas大神，讲了些缓存的问题
 
 ---
 
-[anvas高效绘制10万图形,你必须知道的高效绘制技巧](https://segmentfault.com/a/1190000017133772)
+[canvas高效绘制10万图形,你必须知道的高效绘制技巧](https://segmentfault.com/a/1190000017133772)
 
 ---
 
